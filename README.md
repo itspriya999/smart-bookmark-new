@@ -85,11 +85,6 @@ Building a real-time application with a premium feel comes with its own set of "
 ### 4. The "Dull" Aesthetic
 **Problem**: Initially, the app used a standard black-and-white theme. While "minimalist," it felt sterile and lacked character for an app users should enjoy using every day.
 **Solution**: I pivoted to a vibrant **Indigo-centric** design system. By using subtle shades of indigo for backgrounds and borders, and a high-contrast Indigo-600 for actions, the app now feels "Premium" and alive without needing complex gradients.
-
 ---
 
-## 📜 License
-Distibuted under the MIT License. See `LICENSE` for more information.
-
----
-*Built with ❤️ for better web organization.*
+*Built by Priya Sinha.*
